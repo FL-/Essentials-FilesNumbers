@@ -58,7 +58,7 @@ if !PluginManager.installed?("Pokémon Files by Numbers")
   PluginManager.register({                                                 
     :name    => "Pokémon Files by Numbers",                                        
     :version => "1.0",                                                     
-    :link    => "XXX",             
+    :link    => "https://www.pokecommunity.com/showthread.php?t=478574",             
     :credits => "FL"
   })
 end
